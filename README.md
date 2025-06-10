@@ -11,6 +11,8 @@
 
 ## ⭐ Featured Projects
 
+My current Open Source projects all build on top of each other to offer more productivity to AI developers. They aim to serve as building-blocks to enable developers to focus on deliverying value, not building infra-estructure.
+
 - [**Esperanto**](https://github.com/lfnovo/esperanto):  
   *A unified interface for various AI model providers.*
 
@@ -19,6 +21,9 @@
 
 - [**Content Core**](https://github.com/lfnovo/content-core):  
   *Extract what matters from any media source.*
+
+- [**AI Prompter**](htps://github.com/lfnovo/ai-prompter):  
+  *A tiny library to handle prompts with Jinja (langchain compatible).*
 
 ## 🌐 Connect with Me
 
