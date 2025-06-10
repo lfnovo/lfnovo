@@ -5,7 +5,7 @@
 ## 🧠 About Me
 
 - 🛠️ Top skills: **Python**, **AI**, **Machine Learning**
-- 🌱 Passionate about building accessible, impactful technology
+- 🌱 Passionate about building accessible, impactful technology and accelerating learning for all people
 - 🌍 Founder at [Supernova Labs](https://www.supernovalabs.com)
 - 🤝 Always open to collaboration and new ideas!
 
