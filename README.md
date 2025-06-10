@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Luis Novo (lfnovo)!
 
-<!--
-**lfnovo/lfnovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **3x Founder** now dedicating my time to developing cutting-edge AI projects and actively contributing to Open Source.
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Top skills: **Python**, **AI**, **Machine Learning**
+- 🌱 Passionate about building accessible, impactful technology
+- 🌍 Founder at [Supernova Labs](https://www.supernovalabs.com)
+- 🤝 Always open to collaboration and new ideas!
+
+## ⭐ Featured Projects
+
+- [**Esperanto**](https://github.com/lfnovo/esperanto):  
+  *A unified interface for various AI model providers.*
+
+- [**Open Notebook**](https://github.com/lfnovo/open-notebook):  
+  *An Open Source implementation of Notebook LM with more flexibility and features.*
+
+- [**Content Core**](https://github.com/lfnovo/content-core):  
+  *Extract what matters from any media source.*
+
+## 🌐 Connect with Me
+
+- [Twitter/X](https://twitter.com/lfnovo)
+- [LinkedIn](https://linkedin.com/in/lfnovo)
+- [SuperNova Website](https://www.supernovalabs.com)
+
+---
+
+> _“Let’s build something extraordinary together!”_
+
+💡 **Interested in collaborating?**  
+Feel free to reach out or contribute to any of my projects!
