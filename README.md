@@ -20,7 +20,7 @@ My current Open Source projects all build on top of each other to offer more pro
   *An Open Source implementation of Notebook LM with more flexibility and features. Scaling learning privately, and accelerating knowledge creation.*
 
 - [**Content Core**](https://github.com/lfnovo/content-core):  
-  *Extract what matters from any media source. From audio, video, documents and links. Make their content available for LLMs to process.*
+  *Extract what matters from any media source. From audio, video, documents and links. Make their content available for LLMs to process. Works as a Python Library, CLI utility, MCP Server and Raycast Extension.*
 
 - [**AI Prompter**](https://github.com/lfnovo/ai-prompter):  
   *A tiny library to handle prompts easily with Jinja, allowing for experimentation and optimization of LLM prompts (langchain compatible).*
