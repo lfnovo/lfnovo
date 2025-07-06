@@ -22,9 +22,8 @@ My current Open Source projects all build on top of each other to offer more pro
 - [**Content Core**](https://github.com/lfnovo/content-core):  
   *Extract what matters from any media source. From audio, video, documents and links. Make their content available for LLMs to process. Works as a Python Library, CLI utility, MCP Server and Raycast Extension.*
 
-- [**Content Composer**](https://github.com/lfnovo/content-composer):  
-  *A complete content creation pipeline that enables the fast authoring of workflows for creating articles, podcasts and everything you can imagine.*
-
+- [**Podcast Creator**](https://github.com/lfnovo/podcast-creator):  
+  *A simple to use python library for creating podcasts with support for many LLM and TTS providers.*
 
 - [**AI Prompter**](https://github.com/lfnovo/ai-prompter):  
   *A tiny library to handle prompts easily with Jinja, allowing for experimentation and optimization of LLM prompts (langchain compatible).*
